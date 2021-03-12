@@ -15,8 +15,8 @@ Demo:
     - Kata Sandi : 1234
 5. Link Video
     - Belum
-7. Foto
-    ![IMG_3071](https://user-images.githubusercontent.com/36754292/110960362-3e0d2200-8381-11eb-9078-6a52b8599239.jpg)
+7. Foto <img width="536" alt="Jepretan Layar 2021-03-12 pukul 22 29 14" src="https://user-images.githubusercontent.com/36754292/110961580-88db6980-8382-11eb-817d-d18b6ecd7542.png">
+
 8. fitur   
 - Pertama dosen akan terlebih dahulu absensi untuk memulai kelas dengan cara menteping ke alat absensi menggunakan kartu dosen yang sudah di daftarkan dan di jadawalkan matakuliahnya :
  
